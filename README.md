@@ -1,20 +1,67 @@
+| __Saurabh Bhise's CV__|
+|---|
 <img  title="Twitter" src="https://github.com/saurabhbhise16/page/assets/29581041/d4c3df76-4a85-4da3-90f2-81c8f265726c"/>
 
 
-<p align="center">
-  <h1 align="center">Hi there 👋</h1>
-  <div align="center" >
-    <a href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=I+Am+Open+To+Work" alt="Typing SVG" /></a> 
-  </div>
-</p>
+```FrontEnd```, BackEnd, DevOps, UI/UX Engineer.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saurabhbhise16)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div id="webaddress">
+<a href="saurabhbhise.online">saurabhbhise.online</a>
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- 🔭 I’m currently working on:  ILF NGO App
-- 🌱 I’m currently learning **Typescript**
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Docasaurus
-- 💬 Ask me about React
-- 📫 How to reach me: <a href="https://twitter.com/Saurabh52340130"><img width="20px" alt="Twitter" title="Twitter" src="http://i.imgur.com/wWzX9uB.png"/></a>
+
+## Currently
+
+StartUp - `QYK Bikes` `Software Engineer`
+
+### Specialized in
+
+ReactJS And ThreeJS
+
+
+### Skills
+
+|Frontend | Backend | DevOps| UI/UX |
+| -------- | ------- | -------- | ------- |
+|CSS , HTML5, React Js, ThreeJs, Tailwind CSS | Node.js, MongoDB, SQL, Clerk |Git, GitHub, Docker |Figma,Abobe Illustrator|
+---
+
+## Education
+
+`2017-2021`
+`BE Comp`
+__D Y Patil College Of Engineering, Akurdi__
+
+## Occupation
+
+`Apr 2021 - Aug 2021` <br>
+ _Database Engineer_, _Braves Technologies_ <br>
+  - Created and maintained a database of customer information and transactions, resulting in improved customer retention rates
+  - Developed and maintained a comprehensive database of customer information, resulting in improved customer service
+
+
+`Jan 2023 - Present` <br>
+_Software Engineer, QYK Bikes_<br>
+- Developed REST API and implemented authentication protocols, such as OAuth, to securely expose data to clients
+- Improved database performance by 3% through query optimization and indexing
+- Designed and developed a scalable, high-availability web application that handled 1400 concurrent users with minimal downtime
+
+
+
+
+
+## Freelancing
+`Feb 2022 - Feb 2022`<br>
+_Web Developer, Classic Communication_
+- Create a Landing Page
+- Add WhatsApp message Support for customer service booking
+
+`May 2022 - May 2022` <br>
+_Web Developer, Pulse Hospital_ <br>
+- Design a Dashboard for an Admin to monitor asset
+
+
+<!-- ### Footer
+
+Last updated: Aug 2023 -->
+
