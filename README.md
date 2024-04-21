@@ -40,7 +40,7 @@ __D Y Patil College Of Engineering, Akurdi__
   - Developed and maintained a comprehensive database of customer information, resulting in improved customer service
 
 
-`Jan 2023 - Present` <br>
+`Jan 2023 - Jan 2024` <br>
 _Software Engineer, QYK Bikes_<br>
 - Developed REST API and implemented authentication protocols, such as OAuth, to securely expose data to clients
 - Improved database performance by 3% through query optimization and indexing
@@ -48,6 +48,10 @@ _Software Engineer, QYK Bikes_<br>
 
 
 
+`March 2024 - Present` <br>
+_AEM Web Author , mPhatek Sytems_<br>
+- Create Components for BAJAJ FINSERV Websites
+- Author and maintain QA for authored websites
 
 
 ## Freelancing
