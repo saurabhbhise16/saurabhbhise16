@@ -12,11 +12,11 @@
 
 ## Currently
 
-StartUp - `QYK Bikes` `Software Engineer`
+Govt. Organisation - `DESIDOC Lab, DRDO` `JRF`
 
 ### Specialized in
 
-ReactJS And ThreeJS
+`Python and Virtualization`
 
 
 ### Skills
@@ -48,10 +48,17 @@ _Software Engineer, QYK Bikes_<br>
 
 
 
-`March 2024 - Present` <br>
+`March 2024 - April 2024` <br>
 _AEM Web Author , mPhatek Sytems_<br>
 - Create Components for BAJAJ FINSERV Websites
 - Author and maintain QA for authored websites
+
+`March 2024 - April 2024` <br>
+_JRF , DESIDOC(Defence Scientific Documentation and Research Center) DRDO_<br>
+- Keeping 99% uptime Data Center
+- Hosting SWS (Single Window Services) Application
+- MRC (Main Routing Center) Administration and Troubleshooting
+- Automation of Network and Data Center operation
 
 
 ## Freelancing
