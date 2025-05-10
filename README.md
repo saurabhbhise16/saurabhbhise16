@@ -53,7 +53,7 @@ _AEM Web Author , mPhatek Sytems_<br>
 - Create Components for BAJAJ FINSERV Websites
 - Author and maintain QA for authored websites
 
-`March 2024 - April 2024` <br>
+`May 2024 - Present` <br>
 _JRF , DESIDOC(Defence Scientific Documentation and Research Center) DRDO_<br>
 - Keeping 99% uptime Data Center
 - Hosting SWS (Single Window Services) Application
